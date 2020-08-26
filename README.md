@@ -1,2 +1,3 @@
 # timer
+
 Simple JS timer
